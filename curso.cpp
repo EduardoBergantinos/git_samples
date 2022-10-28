@@ -1,5 +1,5 @@
 
-
+#include <stdio.h>
 #include <iostream>
 
 using namespace std;
@@ -23,6 +23,7 @@ int main()
     b = 1;
 
     std::cout <<resta(a, b);
+    printf ("Hola Mundo");
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
